@@ -1,0 +1,29 @@
+{
+  "name": "nexotech-frontend",
+  "version": "1.0.0",
+  "description": "Interfaz Angular de NexoTech para administrar el catálogo electrónico",
+  "private": true,
+  "scripts": {
+    "start": "ng serve --proxy-config proxy.conf.json",
+    "frontend:dev": "ng serve --proxy-config proxy.conf.json",
+    "build": "ng build --configuration production"
+  },
+  "dependencies": {
+    "@angular/common": "~16.2.12",
+    "@angular/compiler": "~16.2.12",
+    "@angular/core": "~16.2.12",
+    "@angular/forms": "~16.2.12",
+    "@angular/platform-browser": "~16.2.12",
+    "@angular/router": "~16.2.12",
+    "nexotech-catalogo": "file:..",
+    "rxjs": "~7.8.1",
+    "tslib": "^2.6.2",
+    "zone.js": "~0.13.3"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~16.2.12",
+    "@angular/cli": "~16.2.12",
+    "@angular/compiler-cli": "~16.2.12",
+    "typescript": "~5.1.6"
+  }
+}

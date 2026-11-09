@@ -1,0 +1,8 @@
+[
+  { "nombre": "Teclado mecánico Kairo 75", "categoria": "Periféricos", "descripcion": "Teclado compacto de 75 %, switches táctiles y conexión USB-C.", "precio": 239.9 },
+  { "nombre": "Mouse inalámbrico Vector M2", "categoria": "Periféricos", "descripcion": "Sensor óptico ajustable, Bluetooth y receptor USB.", "precio": 119.9 },
+  { "nombre": "Audífonos Studio Air", "categoria": "Audio", "descripcion": "Audífonos inalámbricos con micrófono y cancelación pasiva de ruido.", "precio": 189.9 },
+  { "nombre": "Hub USB-C Multiport 7 en 1", "categoria": "Conectividad", "descripcion": "Expansor con HDMI, puertos USB-A, lector de tarjetas y carga USB-C.", "precio": 149.9 },
+  { "nombre": "Soporte de aluminio Elevate", "categoria": "Accesorios", "descripcion": "Soporte ajustable para laptop con base antideslizante.", "precio": 99.9 },
+  { "nombre": "Webcam Orbit HD", "categoria": "Video", "descripcion": "Cámara 1080p con micrófono integrado y tapa de privacidad.", "precio": 169.9 }
+]

@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+frontend/.angular/
+frontend/dist/
+frontend/out-tsc/
+backend/public/*.js
+backend/public/*.css
+backend/public/*.map
+backend/public/3rdpartylicenses.txt
+backend/public/panel/
